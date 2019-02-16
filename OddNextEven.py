@@ -1,4 +1,4 @@
-def GetNextEven(odd):
+def GetNextEven(odd): 
     """ (int) -> int
     Return the even number next to the odd number (parameter).
     >>> GetNextEven(7)
