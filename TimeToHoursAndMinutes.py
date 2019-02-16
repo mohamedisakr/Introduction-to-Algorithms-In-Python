@@ -1,8 +1,6 @@
 def CalculateHourMinute(timeInMinutes):
     """ (int) -> int, int
-
     Return how many hours and minutes in timeInMinutes.
-
     >>> h, m = CalculateHourMinute(150)
     >>> print(h, m)
     >>> h, m = CalculateHourMinute(120)
