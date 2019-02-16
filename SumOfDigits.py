@@ -1,8 +1,6 @@
 def CalculateDigitsSum(number):
     """ (int) -> int
-
     Return number's digits summation.
-
     >>> CalculateDigitsSum(2002)
     4
     >>> CalculateDigitsSum(123)
