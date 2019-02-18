@@ -8,4 +8,4 @@ def IsPalindrome(word):
     >>> IsPalindrome('10401')
     True    
     """
-    return word == word[::-1];
+    return word == word[::-1]
